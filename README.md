@@ -1,10 +1,14 @@
 
 
-![Logo](https://drive.google.com/file/d/1YHgqIsN6totdh7niai6d4nD3Hmpe1ENy/view?usp=sharing)
+![Logo](https://i.ibb.co/F6w5RTx/Untitled-design.png)
 
 
 ## Cafe Bloom
 The Online Food Ordering System(Cafe Bloom). It has a food ordering app for a customer and a separate web for order retrieval system for Restaurant.
+
+
+
+
 
 
 
@@ -15,12 +19,12 @@ The Online Food Ordering System(Cafe Bloom). It has a food ordering app for a cu
 
 
 ## Features
--- Authentication system guarding the app core.
--- Customers can browse the menu, Add/remove items to cart, track the order and can make payment online.
--- Customers can update password and can change the delivery address.
--- Customers can Select pickup And Delivery Option
--- Data stored in a FireBase database
--- Friendly user interface with JavaFX
+- Authentication system guarding the app core.
+- Customers can browse the menu, Add/remove items to cart, track the order and can make payment online.
+- Customers can update password and can change the delivery address.
+- Customers can Select pickup And Delivery Option
+- Data stored in a FireBase database
+- Friendly user interface with JavaFX
 
 
 
@@ -35,9 +39,9 @@ The Online Food Ordering System(Cafe Bloom). It has a food ordering app for a cu
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/10JJsnBU_Hu1F3VZkgzQYjPxzckqpLFbU/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1ah-t0yPYCtLO0mCnFBOZD4drIUbV3TdJ/view?usp=sharing)
-![App Screenshot](https://drive.google.com/file/d/1Q3lyvGpL6D0jnF09zPG2lfuJnnnStpWC/view?usp=sharing)
+![App Screenshot](https://i.ibb.co/ZcNxMnv/1.png)
+![App Screenshot](https://i.ibb.co/jZv6knM/2.png)
+![App Screenshot](https://i.ibb.co/sjFqyxT/3.png)
 
 
 ## Support
