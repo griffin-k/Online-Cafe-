@@ -1,10 +1,11 @@
 
 
-![Logo](https://i.ibb.co/F6w5RTx/Untitled-design.png)
+![Logo](https://i.ibb.co/whRPVxv/developed-by-karimullah.png)
 
 
 ## Cafe Bloom
 The Online Food Ordering System(Cafe Bloom). It has a food ordering app for a customer and a separate web for order retrieval system for Restaurant.
+
 
 
 
@@ -29,19 +30,23 @@ The Online Food Ordering System(Cafe Bloom). It has a food ordering app for a cu
 
 
 
+
+## Screenshots
+![App Screenshot](https://i.ibb.co/SrWSCLg/1.png)
+
+## Screenshots
+![App Screenshot](https://i.ibb.co/b6Swwrf/2.png)
+
+## Screenshots
+![App Screenshot](https://i.ibb.co/S6SH3B7/3.png)
+
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/ZcNxMnv/1.png)
-![App Screenshot](https://i.ibb.co/jZv6knM/2.png)
-![App Screenshot](https://i.ibb.co/sjFqyxT/3.png)
 
 
 ## Support
